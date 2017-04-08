@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="151" height="151" viewBox="0 0 151 151">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #565159;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1 {
+        stroke-width: 8px;
+      }
+
+      .cls-2 {
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <title>Asset 1</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <circle class="cls-1" cx="75.5" cy="75.5" r="71.5"/>
+      <g>
+        <path class="cls-2" d="M106.18,100H44.82a2.31,2.31,0,0,1-2.3-2.3V53.28a2.31,2.31,0,0,1,2.3-2.3h61.36a2.31,2.31,0,0,1,2.3,2.3V97.72A2.31,2.31,0,0,1,106.18,100Z"/>
+        <path class="cls-2" d="M75.85,81.31"/>
+        <path class="cls-2" d="M75.85,81.31"/>
+        <path class="cls-2" d="M107,52.67,82.53,77.27s-4.17,4-6.67,4c-2.34,0-6.52-4.19-6.52-4.19L43.19,51.65"/>
+        <line class="cls-2" x1="66.27" y1="74.51" x2="42.99" y2="99.11"/>
+        <line class="cls-2" x1="107.05" y1="98.42" x2="85.08" y2="74.71"/>
+      </g>
+    </g>
+  </g>
+</svg>

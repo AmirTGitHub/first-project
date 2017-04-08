@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="372" height="394" viewBox="0 0 372 394">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #565159;
+      }
+    </style>
+  </defs>
+  <title>Asset 2</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <g id="Layer_1-2" data-name="Layer 1">
+      <g>
+        <rect class="cls-1" y="121" width="246" height="142" rx="12" ry="12"/>
+        <rect class="cls-1" x="251" y="142" width="37" height="100" rx="12" ry="12"/>
+        <polygon class="cls-1" points="299 161 299 230 372 284 372 105 299 161"/>
+        <rect class="cls-1" x="165.07" y="262.33" width="14.26" height="142.01" rx="7.13" ry="7.13" transform="translate(-153.92 147.83) rotate(-33.05)"/>
+        <rect class="cls-1" x="68.71" y="262.33" width="14.26" height="142.01" rx="7.13" ry="7.13" transform="translate(199.11 14.48) rotate(33.95)"/>
+        <path class="cls-1" d="M202.5,0A55.5,55.5,0,1,0,258,55.5,55.5,55.5,0,0,0,202.5,0Zm0,81A25.5,25.5,0,1,1,228,55.5,25.5,25.5,0,0,1,202.5,81Z"/>
+        <path class="cls-1" d="M67.5,42A34.5,34.5,0,1,0,102,76.5,34.5,34.5,0,0,0,67.5,42Zm0,50.35A15.85,15.85,0,1,1,83.35,76.5,15.85,15.85,0,0,1,67.5,92.35Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
