@@ -76,7 +76,9 @@ li a {
 
 li a:hover{
     color: white;
+    
 }
+
 p{
     padding-top: 20px;
 }
@@ -150,11 +152,11 @@ p{
 .tools-content{
 
     height: 100%;
-    margin-top: -30px;
+    margin-top: 0px;
     border-bottom: 5px solid black;
     background-color: #e9d3d2;
     padding: 20px;
-    
+/*    position:relative;*/
 }
 
     
@@ -163,12 +165,8 @@ p{
 
 .row-social {
     display: inline;
-    float: left;
-    margin-top: 30px;
-/*    position: relative;*/
-    left: 33%;
+    margin: 30px;
     
-      
    
 }
 
@@ -212,4 +210,9 @@ p{
 .projects-content {
     height: 1400px;
 }
-
+    
+    .tools-content{
+        height: 130%;
+        margin-top:0px;
+    }
+}
