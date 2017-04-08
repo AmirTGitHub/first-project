@@ -1,0 +1,215 @@
+@font-face {
+    font-family: Oswald;
+    src: url(/fonts/Oswald-Regular.ttf);
+}
+
+@font-face {
+    font-family: Roboto salab;
+    src: url(/fonts/RobotoSlab-Regular.ttf);
+}
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+
+.col-D-3 {
+    width: 33.33%;
+    padding: 15px;
+    float: left;
+    
+}
+.col-D-1{
+    width:10%;
+    padding: 15px;
+    float: left;
+}
+
+
+
+
+body {
+    background-color: #f7ece2;
+    
+}
+
+.navbar {
+    display: block;
+    background-color: #f7ece2;
+    font-family: "Oswald", sans-serif;
+    font-size: 1.3em;
+    padding-left: 20px;
+    margin: 0px;
+  
+}
+
+.menu {
+    font-family: Roboto+Slab;
+    font-size: 1.3em;
+    margin: -60px;
+    padding-right: 100px;
+}
+
+ul {
+     
+    list-style-type: none;
+    font-family: "Roboto+Slab";
+}
+
+li {
+   
+    display: inline-block;
+    padding: 7px;
+    float: right;
+}
+
+li a {
+    color: #565159;
+    text-align: center;
+    text-decoration: none;
+    padding: inherit;
+  
+}
+
+
+li a:hover{
+    color: white;
+}
+p{
+    padding-top: 20px;
+}
+
+.banner {
+    background-image: url(images/mobile.png);
+    background-repeat: no-repeat;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    font-family: "Oswald", sans-serif;
+    font-size: 2em;
+    text-align: center;
+    width: 100%;
+    height: 300px;
+    margin-top: 65px;
+    padding-top: 100px;
+    position: relative;
+}
+
+
+
+.section-header h1 {
+    font-family: "Oswald", sans-serif;
+    font-size: 2em;
+    position: relative;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.section-header h3 {
+    font-family: "Oswald", sans-serif;
+    color: #565656;
+    text-align: center;
+    text-transform: uppercase;
+    margin-top: -25px;
+}
+
+
+.projects-content {
+
+    height: 100%;
+    border-bottom: 5px solid black;
+    background-color: #eef0f6;
+    margin-top: -20px;
+    padding: 20px;
+/*    position:relative;*/
+}
+.row{
+    width: 100%;
+    float: left;
+    padding: 20px;
+}
+
+.text {
+    font-family: "Roboto+Slab", sans-serif;
+   
+   
+    
+}
+
+.logos {
+    width: 70px;
+    margin: 10px 0px -15px;
+    transition: width .2s;
+}
+
+.logos:hover{
+  width:75px;
+}
+
+.tools-content{
+
+    height: 100%;
+    margin-top: -30px;
+    border-bottom: 5px solid black;
+    background-color: #e9d3d2;
+    padding: 20px;
+    
+}
+
+    
+}
+
+
+.row-social {
+    display: inline;
+    float: left;
+    margin-top: 30px;
+/*    position: relative;*/
+    left: 33%;
+    
+      
+   
+}
+
+.tw{
+    transition: transform .5s;
+    
+}
+.row-social:hover{
+   transform: rotate(720deg);
+}
+
+
+
+@media only screen and (max-width:768px){
+    .col-m-3{
+        width: 100%;
+    }
+    .col-m-1{
+        width:15%;
+/*        position: relative;*/
+        left:5%;
+    }
+    
+    
+
+	ul { 
+
+		display: inline-block;
+        float: right;
+		
+
+	}
+
+	li {
+		text-align: right;
+		width:70%;
+		padding: 5px;
+		margin: 0;
+
+	}
+.projects-content {
+    height: 1400px;
+}
+
