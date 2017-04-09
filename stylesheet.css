@@ -95,7 +95,7 @@ p{
     height: 300px;
     margin-top: 65px;
     padding-top: 100px;
-    position: relative;
+    position:relative;
 }
 
 
@@ -130,7 +130,9 @@ p{
     float: left;
     padding: 20px;
 }
-
+.h-img{
+    width: 800px;
+}
 .text {
     font-family: "Roboto+Slab", sans-serif;
    
@@ -150,7 +152,7 @@ p{
 
 .tools-content{
 
-    height: 100%;
+    height: 75%;
     margin-top: 0px;
     border-bottom: 5px solid black;
     background-color: #e9d3d2;
@@ -162,11 +164,13 @@ p{
 .row-social {
     display: inline;
     margin: 30px;
+    margin-left: 300px;
     
    
 }
 
 .tw{
+    width: 5%;
     transition: transform .5s;
     
 }
@@ -204,11 +208,14 @@ p{
 
 	}
 .projects-content {
-    height: 2100px;
+    height:100%;
 }
     
     .tools-content{
         height: 280%;
         margin-top:0px;
+    }
+    .tw{
+    margin: 30px;
     }
 }
