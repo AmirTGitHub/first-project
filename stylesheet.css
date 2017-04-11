@@ -117,7 +117,14 @@ p{
     text-transform: uppercase;
     margin-top: -25px;
 }
-
+section::after{
+    padding: 100px;
+    text-align: center;
+    content: "________$______";
+    font-family: "Oswald";
+    display: block;
+    color: black;
+}
 
 .projects-content {
 
@@ -180,9 +187,7 @@ p{
 .row-social:hover{
    transform: rotate(720deg);
 }
-.twi:focus{
- content:"this is twitter";
-}
+
 
 
 
