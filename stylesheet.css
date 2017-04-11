@@ -78,6 +78,9 @@ li a:hover{
     color: white;
     
 }
+li a:focus{
+    color: white;
+}
 
 p{
     padding-top: 20px;
@@ -176,6 +179,9 @@ p{
 }
 .row-social:hover{
    transform: rotate(720deg);
+}
+.twi:focus{
+ content:"this is twitter";
 }
 
 
